@@ -1,0 +1,7 @@
+name: <environment-generative-ai-for-beginners>
+channels:  
+ - defaults
+dependencies:  
+- python=<python3>  
+- openai  
+- python-dotenv
