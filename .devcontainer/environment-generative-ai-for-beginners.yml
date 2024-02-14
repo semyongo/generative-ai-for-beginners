@@ -1,4 +1,4 @@
-name: <environment-generative-ai-for-beginners>
+name: <environment>
 channels:  
  - defaults
 dependencies:  
